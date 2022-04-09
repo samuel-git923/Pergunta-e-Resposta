@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\bin\Debug\pooPerguntaEResposta.exe.config
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\bin\Debug\pooPerguntaEResposta.exe
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\bin\Debug\pooPerguntaEResposta.pdb
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.exe
+C:\Users\Caetano\source\repos\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.pdb
